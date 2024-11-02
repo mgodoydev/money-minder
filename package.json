@@ -1,0 +1,15 @@
+{
+  "name": "money-minder",
+  "version": "1.0.0",
+  "description": "MoneyMinder\r MoneyMinder es una aplicación personal de administración financiera, diseñada para ayudarte a llevar un registro detallado de tus ingresos y gastos. Con una interfaz intuitiva y visualización por colores, MoneyMinder facilita el seguimiento de tus transacciones diarias, permitiéndote tener una visión clara de tu situación financiera.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
